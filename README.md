@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BoyJamie666
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Ruby
-- 💞️ I’m looking to collaborate on silly JS games for my portfolio
 - 📫 How to reach me: jamesmaclay@gmail.com
 
 <!---
