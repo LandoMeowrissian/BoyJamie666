@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BoyJamie666
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning JavaScript, HTML, CSS, Ruby
+- 👋 Hi, I’m Jamie
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning JavaScript, HTML, CSS, Ruby, Rails, SQL, React, & Python.
 - 📫 How to reach me: jamesmaclay@gmail.com
 
 <!---
